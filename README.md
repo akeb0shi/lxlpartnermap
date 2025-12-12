@@ -2,10 +2,11 @@
 
 _This guide explains how to update the map even for non-technical users with no coding experience._
 
+---
+
 ## Video tutorial of how to add partnerships to map:
 https://youtu.be/SwQZSeEn64I
 
----
 
 If when you try and edit index.html and you see "**You need to fork this repository to propose changes**", it means you _do not have editing access_ to the repository. To gain access, please contact me (Dylan Kao) via Microsoft Teams or via email at kao.d@northeastern.edu . For any further questions or inquiries please don't hesitate to reach out.
 
