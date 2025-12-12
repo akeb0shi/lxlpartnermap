@@ -1,5 +1,7 @@
 # Lead By Learning Partnership Map | Maintenance Guide
 
+_This guide explains how to update the map even for non-technical users with no coding experience._
+
 Video tutorial of how to add partnerships to map:
 https://youtu.be/SwQZSeEn64I
 
